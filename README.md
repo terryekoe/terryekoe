@@ -1,4 +1,4 @@
-# About Me
+# About Me 🧑🏾
 
 Dedicated undergraduate student combining Geography and Technology
 with skills in GIS, remote sensing, and map creation. Proficient in ENVI,
@@ -11,5 +11,6 @@ connect for potential synergies.
 
 ## 💡 What I’m Learning
 
-- 📊 Enhancing my machine learning knowledge with TensorFlow and Scikit-learn.  
-- 🛠️ Exploring big data tools like Hadoop and Spark.
+- 📊 Rust programming for system application development.  
+- 🛠️ Data science and GIS.
+- 📸 Video editing: From ideas to life changing videos.
