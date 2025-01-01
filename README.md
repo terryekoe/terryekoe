@@ -12,6 +12,8 @@ to innovate and make meaningful impacts across industries.
 > Every morning I looked in the mirror and asked myself: If today were the last
 > day of my life, would I want to do what I do today?  - *Steve Job*
 
+---
+
 ## 💡 What I’m Learning
 
 - 📊 Rust programming for system application development.  
